@@ -6,7 +6,8 @@ MyContainer: "[[2-World/Regions/Tal'Dorie.md|Tal'Dorie]]"
 MyCategory: City +1500
 obsidianUIMode: preview
 ---
-
+#HUB 
+TE
 
 
 > [!NOTE|div-m] Parent Region: `INPUT[suggester(optionQuery(#Category/Region)):MyContainer]`
