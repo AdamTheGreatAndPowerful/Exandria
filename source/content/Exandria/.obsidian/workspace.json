@@ -1,0 +1,391 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8b6233350b4b5bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94046dfad9833d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-World/Regions/Tal'Dorie.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tal'Dorie"
+            }
+          },
+          {
+            "id": "7540d4e2710109d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/2-World/Hubs/Westruun.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Westruun"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DnD5e-SideScreen-2014"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2-World/Places/Shop of Sales.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Shop of Sales"
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/content/2-World/Hubs/Westruun.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Westruun"
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-DM Toolkit/Home.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "082d00d22d181097",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {},
+              "icon": "life-buoy",
+              "title": "HelpMate"
+            }
+          },
+          {
+            "id": "1d54d43c1cb242fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bb21e6fb9beae31a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c8c0bd3a84d4d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "9f06b744419e5dab",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "78f62065b0218d76",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "d7984c4f7e7b3368",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "f1fdac68db292e57",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "c3f4d5ee4c05f4e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "2-World/Places/Shop of Sales.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Shop of Sales"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3327e6e45ad0f342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "206aac58d0e8536e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "pexels-banner:🚩 Pixel Banner Menu": false
+    }
+  },
+  "active": "7540d4e2710109d6",
+  "lastOpenFiles": [
+    "source/content/0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+    "README.md",
+    "source/content/0-Obsidian TTRPG Tutorial",
+    "source/content/0-Scratch Notes/Random Dungeon.md",
+    "source/content/0-Scratch Notes/Template Design.md",
+    "source/content/0-Scratch Notes/Add Random Notes Here.md",
+    "source/content/0-Scratch Notes",
+    "source/content/1-DM Toolkit/food-drink-and-lodging-xphb.md",
+    "source/content/1-DM Toolkit/Vault Report.md",
+    "source/content/1-DM Toolkit/Travel Calculator.md",
+    "source/content/1-DM Toolkit/PF2e-DM Screen.md",
+    "source/content/1-DM Toolkit/Map Calculator.md",
+    "source/content/1-DM Toolkit/Journey Board.md",
+    "source/content/1-DM Toolkit/Island of Screams.md",
+    "source/content/1-DM Toolkit/Home.md",
+    "source/content/1-DM Toolkit/Home Embeds.md",
+    "source/content/1-DM Toolkit/DnD5e-SideScreen-2024.md",
+    "source/content/1-DM Toolkit/DnD5e-SideScreen-2014.md",
+    "source/content/1-DM Toolkit/DnD5e-DM Screen-2014.md",
+    "source/content/1-DM Toolkit/DM Board.md",
+    "source/content/1-DM Toolkit",
+    "source/content/1-Party/Example Party 1/Example Party 1.md",
+    "source/content/1-Party/Example Party 1/Flap.md",
+    "source/content/1-Party/Example Party 1/Bob.md",
+    "source/content/1-Party/Example Party 2/Example Party 2.md",
+    "source/content/1-Party/Example Party 2/Jane.md",
+    "source/content/1-Party/Example Party 2",
+    "source/content/1-Party/Example Party 1",
+    "source/content/1-Party",
+    "source/content/1-Session Journals/2025-01-01.md",
+    "source/content/1-Session Journals",
+    "source/content/2-World/Regions/Wildemount.md",
+    "source/content/2-World/Regions/Tal'Dorie.md",
+    "source/content/2-World/Regions",
+    "source/content/2-World/People",
+    "source/content/2-World/Places",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon9.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon8.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon7.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon6.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon5.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon4.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon3.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon20.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon2.png",
+    "source/content/z_Assets/Decks/Business Card Dungeon/Dungeon19.png",
+    "0-Scratch Notes/MoC - Canvas Home Page.canvas",
+    "0-Scratch Notes/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

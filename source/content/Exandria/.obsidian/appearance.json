@@ -1,0 +1,22 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "supercharged-links-gen",
+    "FantasyFonts",
+    "SailKite - TabsInObsidian",
+    "TabsInObsidian - MaxH",
+    "TabsInObsidian - MaxH480",
+    "dnd5e-compendium",
+    "hide-markdown-link-url",
+    "HoverProperties_-_Columns",
+    "pf2-compendium",
+    "pf2-only-statblocks",
+    "SailKite - chassis_callouts",
+    "Tab_Icons"
+  ],
+  "baseFontSize": 15
+}
