@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "obsidian-map-view",
+  "obsidian-meta-bind-plugin"
 ]

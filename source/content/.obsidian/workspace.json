@@ -182,16 +182,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-map-view:Open map view": false
     }
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "z_Templates/World Builder Templates/Template-Hub.md",
-    "z_Templates/4_Markdown/Insert Map (Simplified Template).md",
-    "2-World/Hubs/Westruun.md",
-    "category-folder/Some note.md",
     "category-folder/index.md",
+    "z_Templates/4_Markdown/Insert Map (Simplified Template).md",
+    "category-folder/Some note.md",
+    "z_Templates/World Builder Templates/Template-Hub.md",
+    "2-World/Hubs/Westruun.md",
     "index.md",
     "category-folder"
   ]
